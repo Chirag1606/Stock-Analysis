@@ -28,6 +28,10 @@ Changed at 13:49 github
 
 #changed at 14:06 github
 
+<<<<<<< HEAD
 
 #changed at 14:13 local
+=======
+#changed at 14:13 github
+>>>>>>> c0f99a4144b6afdd90bcb09b9c040df5573cdf6b
 
