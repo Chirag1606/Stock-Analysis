@@ -11,9 +11,17 @@ The Growth Stock will continue giving 10-14% of return every year.
 
 ICICI Bank Comes out to be a Undervalued Stock 
 HDFC Bank is a growth stock
+
+
+
 #check check check 
 #changed at 13:25 local
 
+<<<<<<< HEAD
 
 
 #Changed at 13:50 local
+=======
+#Changed at 13:49 github
+
+>>>>>>> 51fab52435b947c7b6750642b2d775e69503c7ee
